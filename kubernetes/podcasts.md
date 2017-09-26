@@ -57,3 +57,21 @@ Typical work flow is user will update values in etcd via the api, the core scrip
 ### Ep 3. Container Standards
 w/ Vincent Batts (Redhat)
 - KubeCon - CloudNativeCon Europe, Copenhagen May 2018
+
+### Ep 4.
+- installers, lots of options mostly creatied by k8s vendors
+- Prometheus, time series key-value store
+
+### Ep 5. Tooling Rundown
+- Envoy: high performance proxy (Lyft)
+- Istio: Collection of tools (envoy)
+- Jaeger: tracing (Uber)
+- Zipkin: tracing (Twitter)
+- Container Storage Interface
+    - Standardized storage for container engines
+
+##### Standards
+Standardizing efforts between container engines
+- CNCF Cloud Native 
+- CSI
+- CNI 
