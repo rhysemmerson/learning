@@ -1,11 +1,11 @@
 # Kube Podcasts
 
-## PODCTL
+# PODCTL
 Brian Gracely & Tyler Britten
 
 Hosted by Red Had Openshift devs. Regular episodes cover news and extra episodes provde a primer on containers and k8s.
 
-### Basics: What is Kubernetes (Aug 21)
+## Basics: What is Kubernetes (Aug 21)
 - Start here
 #### history
 - Google creates k8s
@@ -25,7 +25,7 @@ Typical work flow is user will update values in etcd via the api, the core scrip
 - Pod
     - a unit of work
 
-### Basics: Linux Containers
+## Basics: Linux Containers
 - Set of technologies to isolate a process
 - Mostly involves limiting what a process' can see or do
 - Security concerns
@@ -38,12 +38,12 @@ Typical work flow is user will update values in etcd via the api, the core scrip
 - docker basics
 - 
 
-### Ep 1.
+## Ep 1.
 - Can skip this one
 - Open Service Broker API
 - Lots of Openshift plugging
 
-### Ep 2.
+## Ep 2.
 - github.com running on k8s https://githubengineering.com/kubernetes-at-github/
 - k8s becomming mainstream fast. Big companies contributing back
 ##### Learning Kube
@@ -54,15 +54,15 @@ Typical work flow is user will update values in etcd via the api, the core scrip
     - Openshift 
     - Google Container Engine (GKE)
 
-### Ep 3. Container Standards
+## Ep 3. Container Standards
 w/ Vincent Batts (Redhat)
 - KubeCon - CloudNativeCon Europe, Copenhagen May 2018
 
-### Ep 4.
+## Ep 4.
 - installers, lots of options mostly creatied by k8s vendors
 - Prometheus, time series key-value store
 
-### Ep 5. Tooling Rundown
+## Ep 5. Tooling Rundown
 - Envoy: high performance proxy (Lyft)
 - Istio: Collection of tools (envoy)
 - Jaeger: tracing (Uber)
@@ -70,13 +70,13 @@ w/ Vincent Batts (Redhat)
 - Container Storage Interface
     - Standardized storage for container engines
 
-##### Standards
+#### Standards
 Standardizing efforts between container engines
-- CNCF Cloud Native 
+- CNCF Cloud Native Computing Foundation
 - CSI
 - CNI 
 
-### Ep. 7
+## Ep. 6
 - Oracle joins CNCF, getting involved in eco system
 - Jaegar and Envoy now a part of CNCF
 - Heptio, k8s startup
@@ -103,3 +103,6 @@ Standardizing efforts between container engines
     - Just bring your containers
     - Add pre configured services
     - GKE
+
+## Ep. 7
+- 
