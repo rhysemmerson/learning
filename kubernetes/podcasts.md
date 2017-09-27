@@ -75,3 +75,31 @@ Standardizing efforts between container engines
 - CNCF Cloud Native 
 - CSI
 - CNI 
+
+### Ep. 7
+- Oracle joins CNCF, getting involved in eco system
+- Jaegar and Envoy now a part of CNCF
+- Heptio, k8s startup
+    - ksonnet, config templates
+- CoreOS, container focussed linux distribution w/ kubernetes distribution Tectonic 
+    
+##### k8s setups
+- Roll your own
+    - Hard 
+    - Install k8s, services
+    - Lots of expertise needed
+    - Have to install and configure services
+- k8s distribution
+    - Easier, 
+    - install distro w/ provided scripts
+    - management scripts and GUIs
+    - CoreOS/Tectonic, OpenShift
+    - Still need some expertise
+    - Milage may vary
+- Manaaged k8s (KaaS) 
+    - Easiest
+    - Pre-setup distro
+    - Auto updated
+    - Just bring your containers
+    - Add pre configured services
+    - GKE
